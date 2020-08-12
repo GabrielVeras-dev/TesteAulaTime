@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+    width: 900px;
+    margin: -20px auto 0px auto;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+    padding: 10px;
+}
+
+p{
+    font-family: Poppins;
+	font-size: 15pt;
+}
+
+h1{
+    text-decoration: underline;
+}
